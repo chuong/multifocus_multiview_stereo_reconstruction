@@ -7,11 +7,21 @@ Chowdhury, S.A.H., Nguyen, C., Li, H. et al. Fixed-Lens camera setup and calibra
 
 Data:
 
-Moving lens data and image acquisition setup (coming soon)
+Moving lens data and image acquisition setup can be found in the following links.
 
-Fixed lens data and image acquisition setup (coming soon)
+Real: https://cloudstor.aarnet.edu.au/plus/s/NCeCigvr7bqJlEa
 
-Data associated to synthetic data generation using Blender (coming soon)
+Synthetic: https://cloudstor.aarnet.edu.au/plus/s/LDgHE3Zkex64DD6
+
+Fixed lens data and image acquisition setup can be found in the following links.
+
+Real: https://cloudstor.aarnet.edu.au/plus/s/WrDAPtfiKi6DbTa
+
+Synthetic: https://cloudstor.aarnet.edu.au/plus/s/IhJcUT2hPLG7ja5
+
+Data associated to synthetic data generation using Blender can be found in the following link.
+
+https://cloudstor.aarnet.edu.au/plus/s/6zAdDX0BwDuSOLH
 
 Workflow:
 
