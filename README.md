@@ -64,4 +64,5 @@ run positions_blender_controlled_camera_pose.py for reconstruction from syntheti
 run positions_blender_controlled_camera_pose_incomplete_sphere.py for reconstruction from synthetic images with incomplete spherical camera distribution.
 
 References:
+
 Li, Hengjia and Nguyen, Chuong, 2019. Perspective-consistent multifocus multiview 3D reconstruction of small objects. In 2019 Digital Image Computing: Techniques and ApplicatLi, Hengjia and Nguyen, Chuong, 2019. Perspective-consistent multifocus multiview 3D reconstruction of small objects. In 2019 Digital Image Computing: Techniques and Applications (DICTA), pages 1–8. IEEE.
